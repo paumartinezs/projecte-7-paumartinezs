@@ -6,9 +6,9 @@
 
 ## Autor
 
-Nom: [Escriu el teu nom aquí]
+Nom: *Pau Martínez*
 
-Formant grups de treball: [Escriu els noms dels membres del grup aquí]
+Formant grups de treball: Pau Martínez i Biel Pérez
 
 ## Descripció del projecte
 
