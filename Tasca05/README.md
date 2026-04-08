@@ -2,7 +2,7 @@
 
 ## Introducció al cas
 
-![](pics/image.png)
+![Imagen](pics/image.png)
 
 Dins del conjunt de peticions per part de FoodLogistic, se us ha encarregat la creació de **dos materials audiovisuals** per a la campanya interna de sensibilització **"Dades Segures, Logística Eficient"**.
 
