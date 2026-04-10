@@ -108,14 +108,14 @@ DS --> WCI
 
 ## 5. Funcions dels departaments
 
-**Direcció / Gerència:** coordina l’empresa i pren les decisions principals.
-**Administració i Finances:** gestiona pressupostos, factures, compres i pagaments.
-**Comercial i Atenció al Client:** capta clients i manté la relació amb ells.
-**Departament Tècnic:** s’encarrega del manteniment i de les incidències tècniques.
-**Helpdesk / Suport:** resol problemes quotidians d’usuaris, equips i accessos.
-**Sistemes i Xarxes:** administra servidors, xarxes, Wi-Fi i infraestructura.
-**Ciberseguretat i Backups:** protegeix les dades amb mesures de seguretat i còpies.
-**Desenvolupament i Solucions:** implanta software, ERP, webs i integracions.
+- **Direcció / Gerència:** coordina l’empresa i pren les decisions principals.
+- **Administració i Finances:** gestiona pressupostos, factures, compres i pagaments.
+- **Comercial i Atenció al Client:** capta clients i manté la relació amb ells.
+- **Departament Tècnic:** s’encarrega del manteniment i de les incidències tècniques.
+- **Helpdesk / Suport:** resol problemes quotidians d’usuaris, equips i accessos.
+- **Sistemes i Xarxes:** administra servidors, xarxes, Wi-Fi i infraestructura.
+- **Ciberseguretat i Backups:** protegeix les dades amb mesures de seguretat i còpies.
+- **Desenvolupament i Solucions:** implanta software, ERP, webs i integracions.
 
 
 # Fase 2: Estratègia
