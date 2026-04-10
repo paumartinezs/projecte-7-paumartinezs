@@ -66,6 +66,7 @@ Direcció / Gerència
 
 ## 4. Codi PlantUML de l’organigrama
 
+```
 @startuml
 top to bottom direction
 skinparam backgroundColor white
@@ -103,6 +104,7 @@ DT --> CB
 DS --> SE
 DS --> WCI
 @enduml
+```
 
 ## 5. Funcions dels departaments
 
