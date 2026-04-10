@@ -124,11 +124,11 @@ DS --> WCI
 
 Per competir amb altres empreses de serveis informàtics de Mataró i el Maresme, la nostra proposta de valor es basa en:
 
-**proximitat**, perquè som una empresa local i podem donar una atenció més directa
-**resposta ràpida**, tant en suport remot com presencial
-**atenció personalitzada**, adaptant-nos a les necessitats de FoodLogístic S.A.
-**manteniment preventiu**, per evitar problemes abans que afectin l’activitat
-**seguretat i continuïtat del servei**, per protegir les dades i garantir que l’empresa pugui treballar sense interrupcions
+- **proximitat**, perquè som una empresa local i podem donar una atenció més directa
+- **resposta ràpida**, tant en suport remot com presencial
+- **atenció personalitzada**, adaptant-nos a les necessitats de FoodLogístic S.A.
+- **manteniment preventiu**, per evitar problemes abans que afectin l’activitat
+- **seguretat i continuïtat del servei**, per protegir les dades i garantir que l’empresa pugui treballar sense interrupcions
 
 La nostra estratègia no és només resoldre incidències, sinó convertir-nos en un proveïdor de confiança a llarg termini.
 
@@ -142,12 +142,12 @@ La nostra estratègia no és només resoldre incidències, sinó convertir-nos e
 
 Per donar servei a un client com FoodLogístic S.A., considerem necessari comptar amb els perfils següents:
 
-**1 responsable de projecte o compte**, per coordinar el servei i mantenir el contacte amb el client
-**1 tècnic/a de sistemes i xarxes**, per gestionar servidors, xarxes i infraestructura
-**1 tècnic/a de suport / helpdesk**, per resoldre incidències del dia a dia
-**1 perfil de ciberseguretat i backups**, per protegir les dades i assegurar les còpies de seguretat
-**1 perfil de software / ERP / integracions**, per adaptar les eines informàtiques a les necessitats del client
-**1 suport administratiu o comercial**, per a pressupostos, seguiment i gestió bàsica
+- **1 responsable de projecte o compte**, per coordinar el servei i mantenir el contacte amb el client
+- **1 tècnic/a de sistemes i xarxes**, per gestionar servidors, xarxes i infraestructura
+- **1 tècnic/a de suport / helpdesk**, per resoldre incidències del dia a dia
+- **1 perfil de ciberseguretat i backups**, per protegir les dades i assegurar les còpies de seguretat
+- **1 perfil de software / ERP / integracions**, per adaptar les eines informàtiques a les necessitats del client
+- **1 suport administratiu o comercial**, per a pressupostos, seguiment i gestió bàsica
 
 ### Valoració de l’equip
 
