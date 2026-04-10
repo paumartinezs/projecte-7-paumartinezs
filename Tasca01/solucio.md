@@ -47,7 +47,7 @@ Hem triat aquesta opció perquè és més realista i reflecteix millor l’estru
 
 A continuació es mostra el resultat final de l’organigrama:
 
-![Organigrama](../pics/image.png)
+![Organigrama](../pics/organigrama.png)
 
 ### Estructura en arbre
 
