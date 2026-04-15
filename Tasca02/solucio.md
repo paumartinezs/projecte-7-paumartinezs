@@ -3,7 +3,7 @@
 [Link de la pàgina web](https://paumartinezs.github.io/FoodLogistic-Pau/)
 
 
-[Link del repositori](https://github.com/paumartinezs/FoodLogistic-Pau)]
+[Link del repositori](https://github.com/paumartinezs/FoodLogistic-Pau)
 
 ## StatusCounter
 
