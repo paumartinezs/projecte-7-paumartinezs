@@ -4,10 +4,10 @@
 
 Per a aquesta activitat s’han analitzat quatre alternatives de correu i col·laboració al núvol orientades a PIMES:
 
-[**Microsoft 365 Business Standard**](https://www.microsoft.com/es-es/microsoft-365/business/microsoft-365-plans-and-pricing)
-[**Google Workspace Standard**](https://workspace.google.com/pricing?hl=es)
-[**Zoho Workplace (Professional)**](https://www.zoho.com/es-xl/workplace/pricing.html)
-[**Lark (Pro)**](https://www.larksuite.com/en_sg/plans)
+- [**Microsoft 365 Business Standard**](https://www.microsoft.com/es-es/microsoft-365/business/microsoft-365-plans-and-pricing)
+- [**Google Workspace Standard**](https://workspace.google.com/pricing?hl=es)
+- [**Zoho Workplace (Professional)**](https://www.zoho.com/es-xl/workplace/pricing.html)
+- [**Lark (Pro)**](https://www.larksuite.com/en_sg/plans)
 
 ## Taula comparativa
 
