@@ -1,0 +1,81 @@
+# [cite_start]T09: Estimació temporal de projecte (Diagrama de Gantt professional) [cite: 1]
+
+## [cite_start]🚀 Fase 1: Anàlisi real del projecte (pensament estructural) [cite: 2]
+
+### [cite_start]1.1 Identificació de tasques i dependències [cite: 3]
+[cite_start]A partir de les tasques reals del projecte (T01-T08): [cite: 14]
+
+* [cite_start]**Ordre lògic d'execució:** [cite: 16]
+    * [cite_start]Primer **T01**[cite: 17].
+    * [cite_start]Després es poden començar **T02, T03, T05 i T07**[cite: 17].
+    * [cite_start]La **T06** va després de la T02[cite: 18].
+    * [cite_start]La **T08** es realitza al final, un cop la web està feta i revisada[cite: 18].
+* [cite_start]**Tasques en paral·lel:** [cite: 19]
+    * [cite_start]Poden anar en paral·lel **T02, T03, T05 i T07**[cite: 20].
+    * [cite_start]La **T04** també es pot realitzar mentre s'avança la part de servidors[cite: 20].
+* [cite_start]**Tasques bloquejants:** [cite: 22]
+    * [cite_start]**T02**, perquè condiciona directament la T06 i la T08[cite: 23].
+
+#### Preguntes de reflexió:
+* [cite_start]**Quines tasques no poden començar sense haver-ne acabat una altra?** [cite: 26]
+    * [cite_start]La T06 requereix tenir feta la T02[cite: 27].
+    * [cite_start]La T08 no té sentit abans d'acabar i revisar la web[cite: 28].
+* [cite_start]**On poden aparèixer colls d'ampolla?** [cite: 29]
+    * [cite_start]El principal coll d'ampolla és la cadena **T02 → T06 → T08**, ja que qualsevol falla retarda tota la part web[cite: 30].
+* [cite_start]**Quines tasques són més crítiques?** [cite: 31]
+    * [cite_start]**T02:** Afecta la web final[cite: 33].
+    * [cite_start]**T03:** Part clau de la infraestructura del client[cite: 33].
+
+### [cite_start]1.2 Identificació del camí crític [cite: 34]
+* [cite_start]**Afecten tot el projecte si es retardin:** Sobretot T01, T02, T06 i T08[cite: 36, 37].
+* [cite_start]**Tasques amb marge (slack):** T05 i T07 (es poden fer en paral·lel)[cite: 38, 39]. [cite_start]T04 també té una mica més de marge que la part web[cite: 40].
+
+---
+
+## [cite_start]⏱️ Fase 2: Estimació d'esforç amb criteri [cite: 42]
+
+| N° Tasca | Nom de Tasca | Total Hores | Desglossament de l'esforç (Justificació) |
+| :--- | :--- | :--- | :--- |
+| **T01** | Coneixent la competència | 3h | [cite_start]1h recerca de mercat + 1h anàlisi comparatiu + 1h conclusions. [cite: 56] |
+| **T02** | Proposta pàgina corporativa | 3h | [cite_start]1h comprensió requisits + 1h disseny visual + 1h maquetació + 1h correccions/marge. [cite: 56] |
+| **T03** | Servidor de fitxers | 8h | [cite_start]2h configuració rols/quotes + 2h usuaris/permisos + 2h proves + 2h doc. tècnica. [cite: 57] |
+| **T04** | Servidor d'impressió | 4h | [cite_start]1h instal·lació + 1h cues + 1h proves xarxa + 1h marge drivers. [cite: 57] |
+| **T05** | Vídeo formatiu LOPD | 3h | [cite_start]1h recerca legal (AEPD) + 1h guió + 1h gravació/edició. [cite: 57] |
+| **T06** | Escut Digital (Legalitat) | 3h | [cite_start]1h comprensió LSSI/RGPD + 1h redacció avisos + 1h implementació tècnica (T02). [cite: 57] |
+| **T07** | Migració al Cloud | 4h | [cite_start]2h anàlisi proveïdors + 1h comparativa costos + 1h proposta final. [cite: 57] |
+| **T08** | Elecció web definitiva | 3h | [cite_start]1h revisió propostes + 1h debat/consens + 1h informe de decisió. [cite: 57] |
+
+---
+
+## [cite_start]👥 Fase 3: Assignació de recursos [cite: 58]
+
+* [cite_start]**Biel (Membre A):** Part web i normativa (T02, T06, T08)[cite: 61, 62].
+* [cite_start]**Pau (Membre B):** Sistemes i infraestructura (T03, T04, T07)[cite: 63].
+* [cite_start]**Tasques compartides:** T01 (anàlisi inicial), T05 (vídeo) i T08 (decisió final)[cite: 65, 66, 67].
+* [cite_start]**Estratègia:** Treball en paral·lel per evitar estones mortes i equilibrar la càrrega de feina[cite: 74, 77, 78].
+
+---
+
+## [cite_start]📅 Fase 4: Diagrama de Gantt [cite: 79]
+
+[cite_start]El projecte es divideix en 3 setmanes d'execució a l'abril de 2026: [cite: 93, 95]
+
+1.  [cite_start]**Setmana 1: Recerca i Inici** (T01, T02)[cite: 107].
+2.  [cite_start]**Setmana 2: Implementació Tècnica** (T03, T04, T05)[cite: 112].
+3.  [cite_start]**Setmana 3: Legalitat i Tancament** (T06, T07, T08)[cite: 116].
+* [cite_start]**Lliurament Final:** Dilluns 20 d'abril[cite: 124, 136].
+
+---
+
+![imagen](../pics/DiagramaT09.png)
+
+
+
+## [cite_start]⚠️ Fase 5: Pla de contingència [cite: 138]
+
+| Risc Crític | Impacte | Estratègia de mitigació |
+| :--- | :--- | :--- |
+| **Retard en servidor de fitxers (T03)** | [cite_start]Pot afectar T04 i desquadrar la setmana 2, reduint el marge final. [cite: 153, 154] | [cite_start]Deixar un buffer de temps, començar proves aviat i avançar T05/T07 en paral·lel. [cite: 155] |
+| **Retard en web i part legal (T02+T06+T08)** | Impedeix la revisió legal i la tria final; [cite_start]és el risc més delicat. [cite: 156, 157] | [cite_start]Acabar la base de la web el més aviat possible i revisar la part legal per blocs. [cite: 158] |
+
+[cite_start]**Conclusió:** Per minimitzar riscos, es prioritzarà l'inici de les tasques crítiques i el treball en paral·lel amb temps de marge per a imprevistos[cite: 161, 164].
