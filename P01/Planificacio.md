@@ -73,3 +73,9 @@ El projecte s'estructura en tres setmanes de l'abril de 2026:
 | **Retard en T02 (Web)** | Impedeix la revisió legal (T06) i retarda la tria final (T08). | Prioritzar el desenvolupament base i validar la legalitat per blocs. |
 
 **Conclusió:** La planificació prioritza les tasques del camí crític i utilitza el treball en paral·lel per absorbir possibles imprevistos.
+
+---
+
+[Torna a l'enunciat](README.md)
+
+[Torna a la pàgina principal](../README.md)
