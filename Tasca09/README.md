@@ -99,6 +99,6 @@ Taula amb: problema possible, part afectada, impacte i mesura de resposta.
 
 ---
 
-A  l'arxiu [Planificació](Planificacio) hi ha la solució de la Tasca09
+A  l'arxiu [Planificació](Planificacio.md) hi ha la solució de la Tasca09
 
 [Torna a la pàgina principal](../README.md)
