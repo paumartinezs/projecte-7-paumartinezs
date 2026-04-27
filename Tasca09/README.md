@@ -96,3 +96,9 @@ Taula amb: problema possible, part afectada, impacte i mesura de resposta.
 * **Comprensió** de dependències i camí crític.
 * **Qualitat del README** (professional, estructurat i justificat).
 * **Ús crític de la IA.**
+
+---
+
+A  l'arxiu [Planificació](Planificacio) hi ha la solució de la Tasca09
+
+[Torna a la pàgina principal](../README.md)
