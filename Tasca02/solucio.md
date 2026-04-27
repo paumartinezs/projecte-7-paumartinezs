@@ -13,5 +13,8 @@
 
 <img width="1774" height="911" alt="image" src="https://github.com/user-attachments/assets/fdbf1731-9908-469f-b27c-3328239bf4fe" />
 
+---
+
+[Torna al enunciat](README.md)
 
 [Torna a la pàgina principal](README.md)

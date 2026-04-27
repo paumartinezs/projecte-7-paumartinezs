@@ -55,3 +55,9 @@ Sou suficients o us caldrà contractar més personal?
 
 Document conjunt, penjat al repositori de cada membre del grup, amb el desenvolupament de les dues fases.  
 És **imprescindible** que les propostes siguin raonades i justificades.
+
+---
+
+A l'arxiu [solucio.md](solucio.md) hi ha la solució de la Tasca01
+
+[Torna a la pàgina principal](../README.md)

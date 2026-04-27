@@ -53,3 +53,7 @@ Heu de produir **dos vídeos** amb les especificacions següents:
 - **Confidencialitat:** Obligació de signar compromisos de confidencialitat segons l’**Article 5 del RGPD**.  
 - **Drets dels interessats:** Breu explicació de com gestionar peticions de **dret d’accés** o **supressió** (Drets ARSULIPO).
 
+[Torna a l'enunciat](README.md)
+
+[Torna a la pàgina principal](../README.md)
+

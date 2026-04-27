@@ -121,3 +121,9 @@ Verificacions des del client:
 - Controls d’accés  
 - Quotes  
 - Restriccions de tipus de fitxers  
+
+---
+
+A l'arxiu [solucio.md](solucio.md) hi ha la solució de la Tasca03
+
+[Torna a la pàgina principal](../README.md)

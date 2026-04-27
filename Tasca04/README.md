@@ -78,3 +78,9 @@ Pot ser necessari:
   - *Available Times*
 - L’objectiu és que la impressora només funcioni en horari laboral  
   **Exemple:** de **06:00 a 22:00**.
+
+  ---
+
+A l'arxiu [solucio.md](solucio.md) hi ha la solució de la Tasca04
+
+[Torna a la pàgina principal](../README.md)

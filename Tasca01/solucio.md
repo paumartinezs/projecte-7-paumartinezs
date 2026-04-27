@@ -159,3 +159,10 @@ ampliar l’equip, o bé
 combinar personal intern amb col·laboradors externs especialitzats
 
 Això permetria oferir un servei més professional, estable i de qualitat.
+
+---
+
+[Torna a l'enunciat](README.md)
+
+[Torna a la pàgina principal](../README.md)
+

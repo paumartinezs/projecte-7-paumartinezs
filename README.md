@@ -29,6 +29,30 @@ Al Moodle teniu l'enllaç al document amb l'enunciat del projecte.
 - **Nombre de treballadors:** 35
 - **Facturació darrer any:** 25 milions d’euros.
 
+---
+
+# Tasques
+
+   - [Tasca01](Tasca01)
+   - [Tasca02](Tasca02)
+   - [Tasca03](Tasca03)
+   - [Tasca04](Tasca04)
+   - [Tasca05](Tasca05)
+   - [Tasca06](Tasca06)
+   - [Tasca07](Tasca07)
+   - [Tasca08](Tasca08)
+   - [Tasca09](Tasca09)
+   - [Tasca10](Tasca10)
+   - [Tasca11](Tasca11)
+
+# Productes Finals
+
+   - [P01](P01)
+   - [P02](P02)
+   - [P03](P03)
+
+
+
 
 ## Guies Git i GitHub
 
@@ -36,4 +60,3 @@ Al Moodle teniu l'enllaç al document amb l'enunciat del projecte.
 - [Control de versions: Git](https://github.com/SMX2n/ControlVersions)
 - [Guia GitHub Classroom](https://github.com/SMX2n/guia-github-classroom)
 
-Bona sort! 🚀
