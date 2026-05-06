@@ -4,6 +4,8 @@
 
 ## Pas 1: Reflexió Individual
 
+## Part Pau:
+
 ### **Punts Forts**
 * **Especialització sectorial:** Està totalment enfocada a la logística alimentària (traçabilitat i caducitat).
 * **Eficiència operativa:** El focus en l'optimització de rutes i estoc ataca directament els costos del client.
@@ -15,6 +17,23 @@
 * **Seguretat:** No s'especifiquen protocols de protecció de dades o xifratge.
 * **Prova social:** Falten testimonis o casos d'èxit que validin l'eficàcia de la solució.
 * **Postvenda:** No queda clar el servei de suport tècnic ni el manteniment post-implementació.
+
+
+### Part Biel:
+
+### Punts forts
+He creat una web amb un **disseny clar i senzill**, pensada perquè l’usuari trobi ràpidament la informació important.
+La meva proposta té una **navegació intuïtiva**, cosa que facilita l’ús tant per a clients com per a visitants.
+He intentat donar una **imatge moderna i professional** de FoodLogistic, adaptada al sector logístic.
+La web està enfocada a presentar bé els **serveis de l’empresa** i inclou un formulari de contacte útil per captar consultes.
+He prioritzat un estil visual net perquè la pàgina sigui més agradable i fàcil d’entendre.
+
+### Punts febles
+La meva proposta es podria millorar en la part de **l’estructura tècnica del codi**, ja que no és tan completa ni tan preparada per créixer com altres opcions.
+Alguns apartats podrien estar **més desenvolupats o més detallats** segons el que demana el client.
+La part legal inicialment no estava del tot completa, així que s’havia de reforçar amb l’**avís legal, la política de privacitat i la política de cookies**.
+Tot i que visualment funciona bé, crec que es podria millorar una mica més la **jerarquia del contingut** perquè la informació quedés encara més ordenada.
+La meva proposta és bona a nivell visual, però admet millores perquè sigui més **robusta i professional** a nivell tècnic.
 
 ---
 
@@ -40,7 +59,14 @@ Hem analitzat les estructures de codi de la meva web i la d'en Biel. Tot i que l
 ### **Conclusió**
 Finalment, hem decidit que la web oficial de l'equip serà la meva (Pau Martínez). Estem molt satisfets amb aquesta decisió perquè no ha estat una elecció a dit, sinó un acord basat en el que és millor per al projecte de FoodLogistic. Creiem que presentem una eina robusta, professional i tècnicament impecable.
 
+
+[Pàgina web Pau:](https://paumartinezs.github.io/FoodLogistic-Pau/)
+
+
+[Pàgina web Biel:](https://bieel77.github.io/FoodLogistic/)
+
 ---
+
 
 [Torna al enunciat](README.md)
 
