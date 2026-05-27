@@ -44,6 +44,7 @@ Al Moodle teniu l'enllaç al document amb l'enunciat del projecte.
    - [Tasca09](Tasca09)
    - [Tasca10](Tasca10)
    - [Tasca11](Tasca11)
+   - [Tasca12](Tasca12)
 
 # Productes Finals
 
